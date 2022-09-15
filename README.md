@@ -3,4 +3,4 @@ An IDE interface for Olivetti Prodest PC128S & Master Compact
 Further info on stardot.org.uk
 
 
-![ScreenShot](https://raw.githubusercontent.com/aotta/PC128S-IDE/blob/main/PC128S_IDE.png)
+![ScreenShot](https://raw.githubusercontent.com/aotta/PC128S-IDE/main/PC128S_IDE.png)
